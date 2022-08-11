@@ -8,3 +8,7 @@ This is a sample read me file for our GitHub Example repo. I am learning Markdow
 
 ## Link Example
 [CodeTime](https://www.youtube.com)
+
+1. Item One
+2. Item Two
+3. Item Three
