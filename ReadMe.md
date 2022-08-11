@@ -28,5 +28,5 @@ This is a sample read me file for our GitHub Example repo. I am learning Markdow
 
 ----
 
-## [English Correction](http://www.https://app.grammarly.com/)
+## [English Correction](http://app.grammarly.com/)
 
